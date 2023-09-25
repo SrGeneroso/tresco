@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T13:53:43.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DDZUGrnWDei5bVk3kOia" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-09-25T14:28:56.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VRk4cwJiBwzZ6YISJwYE" version="21.6.8" type="github" pages="13">
   <diagram name="Main" id="ES3LrQiwAr_SAzWsuQFd">
     <mxGraphModel dx="915" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PBoMHBd07Pc--UXq3wlU" name="Page-12">
-    <mxGraphModel dx="370" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,7 +636,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fS8ovsGRIGdsb8SxnKpn-1" value="TRESCO - Have it all" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="5" y="33" width="210" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-2" value="FOR ADMIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-3" value="FOR EDITOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-4" value="FOR USER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-5" value="HOSTING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-6" value="DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-7" value="EMAIL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-8" value="USERS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-9" value="PLUGINS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-11" value="STORE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-13" value="CRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-16" value="CMS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-17" value="COMPONENTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS8ovsGRIGdsb8SxnKpn-18" value="THEMES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
